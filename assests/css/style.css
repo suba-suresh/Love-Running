@@ -24,6 +24,9 @@ body {
 header{
     background-color: beige;
 }
+h1{
+    font-family: 'Oswald', sans-serif;
+}
 /* main content*/
 main{
     background-color: antiquewhite;
