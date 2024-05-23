@@ -38,6 +38,13 @@ header a {
     color: inherit;
 }
 
+h1{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
 #menu{
    font-size: 110%;
    letter-spacing: 4px;
@@ -77,12 +84,7 @@ nav {
     font-size: 2rem;
 }
 
-h1{
-    font-family: 'Oswald', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #252525;
-}
+
 /* main content*/
 main{
     
@@ -94,7 +96,7 @@ main{
 #hero{
     height: 600px;
     width: 100%;
-    background-color: lightgreen;
+    background: url("../images/hero-image.webp") no-repeat center center/cover;
 }
 /* Footer */
 #social-networks {
